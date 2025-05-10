@@ -55,8 +55,6 @@ Key tools include **MEGA, NDE, BEAST, RAxML, MrBayes, TNT**, and many others. We
    - Built bipartite author–software, language–software, and country–software networks.  
    - Applied network‐analysis metrics and fixed-effects regressions to study adoption, career impacts, and innovation outcomes.
 
-A high-level pipeline diagram is available in `figures/methodology.png`.
-
 ---
 
 ## Data Processing
@@ -68,8 +66,6 @@ A high-level pipeline diagram is available in `figures/methodology.png`.
   - **Article →** language, year, software list  
 - **Edge list**:  
   | author_id | DOI | software | year | language | country |
-
-All derived data and final edge lists live under `data/derivedData/`.
 
 ---
 
