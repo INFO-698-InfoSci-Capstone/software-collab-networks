@@ -131,11 +131,6 @@ To foster innovation and inclusion, we must consider beyond pure technical capab
 
 ---
 
-## iShowcase Poster
-
-![Poster](poster-2.png)
-
----
 
 ## Directory Structure
 
