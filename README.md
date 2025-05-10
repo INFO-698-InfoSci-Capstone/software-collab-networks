@@ -2,8 +2,6 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-A reproducible‐research compendium accompanying the manuscript **“Scientific Collaboration Networks on Software”** by Swetha Kolloju, under the guidance of Dr. Sarah Bratt and Dr. Cristian Román-Palacios.
-
 ---
 
 ## Table of Contents
